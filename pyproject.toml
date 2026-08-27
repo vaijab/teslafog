@@ -1,0 +1,13 @@
+[project]
+name = "teslafog"
+version = "0.1.0"
+description = "UNECE R48 6.11.7 rear fog lamp controller for a US-market Tesla Model Y"
+readme = "README.md"
+authors = [
+    { name = "Vaidas Jablonskis", email = "jablonskis@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "pip>=26.2.1",
+    "platformio>=6.1.19",
+]
